@@ -1,0 +1,26 @@
+.wrap {
+	width: 80%;
+	margin: 10px auto;
+}
+.game-block {
+	width: 256px;
+	height: 256px;
+	margin: 0 auto;
+	border: 1px solid black;
+	position: relative;
+}
+.block {
+	width: 60px;
+	height: 60px;
+	border-radius: 10px;
+	color: #fff;
+	text-align: center;
+	line-height:230%;
+	font-size: 20px;
+	cursor: pointer;
+	float: left;
+	border: 2px solid #fff;
+}
+.fill {
+	background-color: gold;
+}
